@@ -19,7 +19,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kienpro10082002&show_icons=true&theme=dracula&title_color=4D72F2&text_color=F0F8FF&bg_color=1A1B27&border_color=000000&border_radius=10" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kienpro10082002&theme=dracula&background=1A1B27&border=000000&ring=4D72F2&fire=4D72F2&currStreakLabel=6495ED" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Kienpro10082002&theme=dracula&background=1A1B27&border=000000&ring=4D72F2&fire=4D72F2&currStreakLabel=6495ED" alt="GitHub Streak"/>
 </div>
 
 ---
