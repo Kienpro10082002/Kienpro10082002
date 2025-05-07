@@ -48,7 +48,7 @@
 
 ## 📅 Contribution Activity
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kienpro10082002/Kienpro10082002/main/dist/isometric-contributions.gif" alt="3D Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kienpro10082002&theme=dracula" alt="Profile Details"/>
 </div>
 
 ---
