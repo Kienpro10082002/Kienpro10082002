@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>👋 Hi, I'm Kienpro10082002!</h1>
-  <p>A passionate Java Web Developer from Vietnam 🇻🇳</p>
+  <h1>👋 Hi, I'm Doan Trung Kien!</h1>
+  <p>A passionate Java Sofware Engineer from Vietnam 🇻🇳</p>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="200" alt="coding animation"/>
 </div>
 
 ---
 
 ## 📝 About Me
-- 👨‍💻 I’m a Java Web Developer passionate about building high-quality web applications.
-- 💻 **Skills**: Java, Spring Framework, Gradle, Maven, AWS, RabbitMQ, Docker, CI/CD.
+- 👨‍💻 I’m a Java Sofware Engineer passionate about building high-quality web applications.
+- 💻 **Skills**: Java Spring.
 - 🌐 **Languages**: Proficient in Vietnamese and English.
 - 🎓 Former student of **Ho Chi Minh City University of Technology (HUTECH)**.
 - 🌱 I love learning, sharing knowledge, and exploring new IT technologies.
