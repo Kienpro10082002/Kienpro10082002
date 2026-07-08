@@ -36,8 +36,8 @@
   <a href="mailto:doantrungkien10082002@gmail.com">
     <img src="https://img.shields.io/badge/Email-doantrungkien10082002@gmail.com-0078D4?style=flat-square&logo=gmail" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/kienpro10082002/">
-    <img src="https://img.shields.io/badge/LinkedIn-Kienpro10082002-0078D4?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/doantrungkien10082002/">
+    <img src="https://img.shields.io/badge/LinkedIn-doantrungkien10082002-0078D4?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Kienpro10082002">
     <img src="https://img.shields.io/badge/GitHub-Kienpro10082002-0078D4?style=flat-square&logo=github" alt="GitHub"/>
